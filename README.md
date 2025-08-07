@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# team-zimermann
+Team Zimermann Platform
+>>>>>>> f41f76f20fbf529f317f3d297aea3a56b4cf6678
