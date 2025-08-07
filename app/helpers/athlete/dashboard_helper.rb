@@ -1,0 +1,2 @@
+module Athlete::DashboardHelper
+end
